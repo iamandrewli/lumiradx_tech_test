@@ -19,4 +19,7 @@ Instructions
 
 Bugs found
 -----
-List of bugs found and where to find.
+https://github.com/iamandrewli/lumiradx_tech_test/issues
+
+https://github.com/iamandrewli/lumiradx_tech_test/issues/1
+https://github.com/iamandrewli/lumiradx_tech_test/issues/2
