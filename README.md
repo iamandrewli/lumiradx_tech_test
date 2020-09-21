@@ -1,0 +1,1 @@
+# lumiradx_tech_test
