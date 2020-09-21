@@ -1,4 +1,4 @@
-[Introduction](#introduction) | [Test plan](#test-plan) | [Viewing Test results](#viewing-test-results) | [Bugs Found](#Bugs-found) | 
+[Introduction](#introduction) | [Test plan](#test-plan) | [Viewing Test results](#viewing-test-results) | [Defects](#defects) | 
 
 ---
 
