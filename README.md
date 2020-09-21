@@ -4,12 +4,13 @@
 
 Introduction
 -----
-Quick intro
+This is my submission for the LumiraDX technical task.  Here you will find a guide on tests plan that I created, my testing results and instructions on how to view them and a list of bugs raised.
 
 
 Test plan
 -----
-Test plan location
+A high level test plan was created an can be reviewed here:
+https://github.com/iamandrewli/lumiradx_tech_test/blob/master/LumiraDX%20Technical%20Test%20–%20High%20Level%20Test%20Plan.docx
 
 
 Viewing test results
@@ -17,9 +18,10 @@ Viewing test results
 Instructions
 
 
-Bugs found
+Defects
 -----
+
+A list of defects can be found here:
 https://github.com/iamandrewli/lumiradx_tech_test/issues
 
-https://github.com/iamandrewli/lumiradx_tech_test/issues/1
-https://github.com/iamandrewli/lumiradx_tech_test/issues/2
+
