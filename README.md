@@ -1,4 +1,4 @@
-[Introduction](#introduction) | [Test plan](#test-plan) | [Test completion report](#test-completion-report) | [Defects](#defects) | [Set up](#set-up) |
+[Introduction](#introduction) | [Test plan](#test-plan) | [Test completion report](#test-completion-report) | [Defects](#defects) | [Automated test set up](#automated-test-set-up) |
 
 ---
 
@@ -27,9 +27,8 @@ https://github.com/iamandrewli/lumiradx_tech_test/issues
 
 
 
-Set up
+Automated test set up
 -----
-<u>Automated Integration Test set up</u>
 
 
 Download the tests from:
