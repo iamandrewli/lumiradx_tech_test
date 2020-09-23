@@ -29,5 +29,8 @@ https://github.com/iamandrewli/lumiradx_tech_test/issues
 
 Set up
 -----
-Instructions
+<ins>Automated Integration Test set up</ins>
+* pip install requests
+* pip install pytest
+
 
