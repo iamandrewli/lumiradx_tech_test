@@ -1,4 +1,4 @@
-[Introduction](#introduction) | [Test plan](#test-plan) | [Viewing Test results](#viewing-test-results) | [Defects](#defects) | 
+[Introduction](#introduction) | [Test plan](#test-plan) | [Defects](#defects) | [Viewing Test results](#viewing-test-results) |
 
 ---
 
@@ -13,15 +13,15 @@ A high level test plan was created an can be reviewed here:
 https://github.com/iamandrewli/lumiradx_tech_test/blob/master/LumiraDX%20Technical%20Test%20–%20High%20Level%20Test%20Plan.docx
 
 
-Viewing test results
------
-Instructions
-
-
 Defects
 -----
 
 A list of defects can be found here:
 https://github.com/iamandrewli/lumiradx_tech_test/issues
 
+
+
+Viewing test results
+-----
+Instructions
 
