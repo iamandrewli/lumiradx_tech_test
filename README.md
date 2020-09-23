@@ -38,7 +38,7 @@ https://github.com/iamandrewli/lumiradx_tech_test/tree/master/automated_integrat
 From the same venv
 * pip install requests
 * pip install pytest
-* run tests by using the command 'pytest TESTNAME' e.g. pytest put_test.py 
+* run tests by going to the *automated_integration_test* directory and run the command 'pytest TESTNAME' e.g. pytest put_test.py 
 
 
 Manual test set up
