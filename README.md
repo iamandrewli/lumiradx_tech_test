@@ -16,6 +16,7 @@ https://github.com/iamandrewli/lumiradx_tech_test/blob/master/LumiraDX%20Technic
 Test completion report
 -----
 The test completion report can be found here:
+https://github.com/iamandrewli/lumiradx_tech_test/blob/master/LumiraDX%20Technical%20Test%20–%20Test%20completion%20report.docx
 
 
 Defects
