@@ -1,4 +1,4 @@
-[Introduction](#introduction) | [Test plan](#test-plan) | [Defects](#defects) | [Viewing Test results](#viewing-test-results) |
+[Introduction](#introduction) | [Test plan](#test-plan) | [Defects](#defects) | [Set up](#set-up) |
 
 ---
 
@@ -21,7 +21,7 @@ https://github.com/iamandrewli/lumiradx_tech_test/issues
 
 
 
-Viewing test results
+Set up
 -----
 Instructions
 
