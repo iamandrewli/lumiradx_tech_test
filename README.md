@@ -29,8 +29,9 @@ https://github.com/iamandrewli/lumiradx_tech_test/issues
 
 Set up
 -----
-<ins>Automated Integration Test set up</ins>
-'''
+<u>Automated Integration Test set up</u>
+
+
 Download the tests from:
 https://github.com/iamandrewli/lumiradx_tech_test/tree/master/automated_integration_tests
 
@@ -41,5 +42,5 @@ From the same venv
 * pip install requests
 * pip install pytest
 * run tests by using the command 'pytest TESTNAME' e.g. pytest put_test.py 
-'''
+
 
