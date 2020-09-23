@@ -1,4 +1,4 @@
-[Introduction](#introduction) | [Test plan](#test-plan) | [Defects](#defects) | [Set up](#set-up) |
+[Introduction](#introduction) | [Test plan](#test-plan) | [Test completion report](#test-completion-report) | [Defects](#defects) | [Set up](#set-up) |
 
 ---
 
@@ -11,6 +11,11 @@ Test plan
 -----
 A high level test plan was created an can be reviewed here:
 https://github.com/iamandrewli/lumiradx_tech_test/blob/master/LumiraDX%20Technical%20Test%20–%20High%20Level%20Test%20Plan.docx
+
+
+Test completion report
+-----
+The test completion report can be found here:
 
 
 Defects
