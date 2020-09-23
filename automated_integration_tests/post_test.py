@@ -1,20 +1,10 @@
 import requests
-import pytest
 
-HEADERS = {'Content-Type': 'application/json'}
-
-GET_ENDPOINT = "http://localhost:8888/api/blog/categories/"
-POST_ENDPOINT = "http://localhost:8888/api/blog/posts/"
-
-def count_posts_in_category(response_body):
-    count = 0
-    for x in response_body:
-        if isinstance(response_body[x], list):
-            count += len(response_body[x])
-    return count
+from endpoints import GET_ENDPOINT, POST_ENDPOINT, HEADERS, DELETE_ENDPOINT
+from helper import count_posts_in_category
 
 
-def test_check_new_blog_posts_added_to_category():
+def test_check_new_blog_posts_can_be_added_and_removed_in_category():
     # Get all blog posts in category 3
     before_blog_post = requests.get(GET_ENDPOINT + "3")
     before_blog_post_response_body = before_blog_post.json()
@@ -38,3 +28,14 @@ def test_check_new_blog_posts_added_to_category():
 
     # Assert that category 3 count has increased by 1
     assert after_blog_count == before_blog_count + 1
+
+    # Delete the blog post that was created
+    delete_blog = requests.request("DELETE", url=DELETE_ENDPOINT + str(after_blog_post_response_body['posts'][0]['id']))
+    assert delete_blog.status_code == 204
+
+    # Count how many blog posts category 3 has after deleted post
+    after_deleted_blog_post = requests.get(GET_ENDPOINT + "3")
+    after_deleted_blog_post_response_body = after_deleted_blog_post.json()
+
+    after_deleted_blog_count = count_posts_in_category(after_deleted_blog_post_response_body)
+    assert after_deleted_blog_count == after_blog_count - 1
