@@ -1,4 +1,4 @@
-[Introduction](#introduction) | [Test plan](#test-plan) | [Test completion report](#test-completion-report) | [Defects](#defects) | [Automated test set up](#automated-test-set-up) |[manual test set up](#manual-test-set-up) |
+[Introduction](#introduction) | [Test plan](#test-plan) | [Test completion report](#test-completion-report) | [Defects](#defects) | [Automated test set up](#automated-test-set-up) |[Manual test set up](#manual-test-set-up) |
 
 ---
 
@@ -47,3 +47,10 @@ Manual test were created and executed with the use of Postman.
 
 These steps will walk you through how to set up and access the test scenarios.
 
+Firstly, download the postman app from:
+https://www.postman.com/downloads/
+
+Access the manual test scenarios from:
+https://github.com/iamandrewli/lumiradx_tech_test/blob/master/Lumiradx.postman_collection.json
+
+Once downloaded, open the postman app.  Click the import button from the top left hand corner.  Find the Lumiradx.postman_collection.json and expand the LumiraDX folder.
