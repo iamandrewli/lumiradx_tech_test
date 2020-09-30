@@ -33,7 +33,7 @@ Download the tests from:
 https://github.com/iamandrewli/lumiradx_tech_test/tree/master/automated_integration_tests
 
 * Use the same venv that you created for the lumiradx tech test found here:
-https://github.com/iamandrewli/lumiradx_tech_test/tree/master/automated_integration_tests
+https://github.com/amaccormack-lumira/rest_api_demo/blob/master/README.md
 
 From the same venv
 * pip install requests
